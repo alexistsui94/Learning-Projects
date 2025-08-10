@@ -186,7 +186,8 @@
 
 <Test q="4. I don't like detective stories, but science fiction makes __ impression on me." :c="['quite a different', 'a quitely different', 'a quite differently', 'quitely a differently']" a="(A)">quite 是个强调语气的副词，可直接修饰名词短语 a different impression，故选 A。而 C 和 D 用了副词 differently，置于名词 impression 之前，词类错误。B 中的 quitely 错误，因为没有这种拼法。</Test>
 
-<Test q="5. I am sorry. I __ forgot it." :c="['clean', 'cleanly', 'cleanness', 'cleanfully']" a="(A)">clean 作形容词是“干净的”，作副词时则是“完完全全”。在此用副词用法来修饰动词 forgot。</Test>
+<Test q="5. I am sorry. I __ forgot it." :c="['clean', 'cleanly', 'cleanness', 'cleanfully']" a="(A)">clean 作形容词是“干净的”，作副词时则是“完完全全”。在此用副词用法来修饰动词 forgot。类似例句（副词 clean = completely）
+I clean forgot to lock the door.（我完全忘了锁门。）She clean missed the point.（她完全没理解要点。）He clean lost his temper.（他彻底发脾气了。）</Test>
 
 <Test q="6. After walking so long a distance, I am __ tired." :c="['dead', 'deadly', 'death', 'died']" a="(A)">dead tired 这个短语相当于“累得要死”，又 dead center 表示“正中红心”，在这两个短语中 dead 都当作强调语气的副词，不是形容词。</Test>
 

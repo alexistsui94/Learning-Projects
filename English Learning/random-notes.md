@@ -75,3 +75,100 @@
 ### 额外补充：
 - 前两个晚上（包括昨晚和前天晚上） = **the last two nights** / **the past two nights**
 - 前天晚上（不包括昨晚） = **two nights ago** / **the night before last**
+
+# 3.固定搭配
+- more often than not = 经常、往往
+- little better than = 几乎和…一样差，用于贬义
+- keep clear of …  = 远离，不要靠近（某物）
+- much more so = 用来指代前面提到的形容词或副词性内容，意思是 “的确如此，而且程度更深”。
+  - 原句："Is John very intelligent?""Yes, __ than his brother."
+    - 完整句 = Yes, he is much more so than his brother, 其中 so 代替 intelligent。 
+
+# 4.频率副词短语笔记
+
+## 4.1 高频率（几乎总是）
+| 短语 | 含义 | 用法特点 | 例句 |
+|------|------|----------|------|
+| all the time | 一直，总是 | 口语常用，语气随意 | He complains **all the time**.（他老是抱怨。） |
+| at all times | 一直，始终 | 正式/书面语 | The safety door must be locked **at all times**.（安全门必须始终锁着。） |
+| every single day | 每一天 | 语气强调 | She calls her mother **every single day**.（她每天都给母亲打电话。） |
+| day in and day out | 日复一日 | 口语常用，略带枯燥感 | He works hard **day in and day out**.（他日复一日努力工作。） |
+
+---
+
+## 4.2 经常 / 通常
+| 短语 | 含义 | 用法特点 | 例句 |
+|------|------|----------|------|
+| more often than not | 往往，经常 | 固定搭配，可句首或句中 | **More often than not**, she wins the game.（她经常赢。） |
+| as a rule | 通常，一般来说 | 书面/半正式 | **As a rule**, I don’t drink coffee after 6 p.m.（一般来说，我6点后不喝咖啡。） |
+| most of the time | 大多数时候 | 中性口语表达 | We stay at home **most of the time**.（我们大多数时候都待在家。） |
+| in general | 总的来说 | 正式度较高 | **In general**, men are taller than women.（一般来说，男性比女性高。） |
+| generally speaking | 一般而言 | 多用于句首 | **Generally speaking**, prices are higher in big cities.（一般而言，大城市的物价更高。） |
+
+---
+
+## 4.3 偶尔 / 有时
+| 短语 | 含义 | 用法特点 | 例句 |
+|------|------|----------|------|
+| once in a while | 偶尔 | 口语常用 | I go hiking **once in a while**.（我偶尔去远足。） |
+| from time to time | 不时，有时 | 较正式 | We meet **from time to time**.（我们偶尔见面。） |
+| every now and then | 不时，有时 | 口语化 | **Every now and then**, he surprises me with flowers.（他偶尔会送我花。） |
+| at times | 有时 | 正式度较高 | **At times**, I feel lonely.（有时候我感到孤独。） |
+| on occasion | 偶尔，有时 | 书面语或正式 | **On occasion**, we eat out.（我们偶尔在外面吃饭。） |
+| once or twice | 一两次 | 强调次数少 | I’ve been there **once or twice**.（我去过那里一两次。） |
+
+---
+
+## 4.4 很少 / 几乎不
+| 短语 | 含义 | 用法特点 | 例句 |
+|------|------|----------|------|
+| once in a blue moon | 千载难逢，非常少 | 口语幽默表达 | He visits us **once in a blue moon**.（他很少来看我们。） |
+| hardly ever | 几乎从不 | 口语常用 | She **hardly ever** goes out.（她几乎不出门。） |
+| scarcely ever | 几乎从不 | 较正式 | They **scarcely ever** speak to each other.（他们几乎不说话。） |
+| rarely / seldom | 很少 | 常放在句中，或句首倒装 | We **rarely** eat fast food.（我们很少吃快餐。） |
+
+---
+
+## 4.5 位置与用法提示
+- 频率副词短语可放：
+  - 句首（用于强调）：**More often than not**, he comes late.
+  - 句中（主语和谓语之间，或 be 动词之后）：He is **more often than not** late.
+  - 句尾（口语常见）：We eat out **once in a while**.
+- 注意：有些短语（如 **more often than not**、**as a rule**）放句首时要加逗号。
+
+---
+
+## 4.6 小记忆法
+- **总是类**：all the time, at all times  
+- **经常类**：more often than not, as a rule  
+- **偶尔类**：once in a while, from time to time, every now and then  
+- **很少类**：once in a blue moon, hardly ever, seldom
+
+# 5. no longer 和 not 的区别
+## 5.1 核心区别
+| 对比点  | **no longer**           | **not**            |
+| ---- | ----------------------- | ------------------ |
+| 含义   | **不再**（表示某种状态/行为已经结束）   | **否定**（对动作/状态直接否定） |
+| 关注点  | 变化：从“曾经是” → “现在不是”      | 直接否定事实或动作          |
+| 语气   | 带有时间感和对比意味              | 中性否定               |
+| 常见位置 | 情态/助动词之后，主要动词之前；be 动词之后 | 助动词/情态动词之后；be 动词之后 |
+
+---
+
+## 5.2 用法对比
+- no longer：强调“曾经如此，但现在不再如此”
+  - 用法：
+    - 助动词/情态动词 + no longer + 动词原形
+    - be 动词 + no longer + 表语
+  - 例句：
+    - I no longer live in London.（我不再住在伦敦了。→ 以前住，现在不住）
+    - He is no longer my boss.（他不再是我老板了。→ 以前是，现在不是）
+    - We can no longer wait.（我们不能再等了。）
+- not：直接否定
+  - 用法：
+    - 助动词/情态动词 + not + 动词原形
+    - be 动词 + not + 表语
+  - 例句：
+    - I do not live in London.（我不住在伦敦。→ 不说明以前是否住过）
+    - He is not my boss.（他不是我老板）
+    - We cannot wait.（我们不能等 → 不强调以前能不能等）
